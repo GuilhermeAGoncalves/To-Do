@@ -66,3 +66,11 @@ Toda vez que um elemento é apagado ou é mudado de estado ele também é atuali
 ## Deletando Tudo
 
 Para deletar tudo criei um evento no botão deletar onde ele verifica se o usuario quer deletar toda a lista se sim ele limpa o `local storage` com um `clear()` e limpa o `<ul>` e emite um alert sinalizando que tudo foi deletado se não ele não altera nada e emite um alert dizendo que não foi apagado nada.
+
+## Screenshot
+
+![screenshot_1](assets/img/screenshot/screenshot_1.jpg)
+
+![screenshot_2](assets/img/screenshot/screenshot_2.jpg)
+
+![screenshot_mobile](assets/img/screenshot/screenshot_mobile.jpg)
